@@ -10,13 +10,13 @@ search(), split(), replace(), replaceAll(), mmatch(), and matchAll(). Some examp
 
 ## Table of Contents
 
-- [Anchors]
-- [Qualifiers]
-- [Grouping Constructs]
-- [Character Classes]
-- [Character Escapes]
-- [Substitution]
-- [Resources]
+- [Anchors](#Anchors)
+- [Qualifiers](#Qualifiers)
+- [Grouping Constructs](#Grouping Constructs)
+- [Character Classes](#Character Classes)
+- [Character Escapes](#Character Escapes)
+- [Substitution](#Substitution)
+- [Resources](#Resources)
 
 
 ## Anchors
