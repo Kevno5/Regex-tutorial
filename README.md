@@ -12,7 +12,7 @@ search(), split(), replace(), replaceAll(), mmatch(), and matchAll(). Some examp
 
 - [Anchors](#Anchors)
 - [Qualifiers](#Qualifiers)
-- [Grouping Constructs](#Grouping Constructs)
+- [Grouping Constructs](#Grouping-Constructs)
 - [Character Classes](#Character Classes)
 - [Character Escapes](#Character Escapes)
 - [Substitution](#Substitution)
